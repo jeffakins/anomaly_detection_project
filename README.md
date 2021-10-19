@@ -1,6 +1,6 @@
 # Anomaly Detection Project
 - By Jeff Akins
-[detective](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fstock-photo%2Fdetective.html&psig=AOvVaw37sevaqoW8t5wvRYsXTklu&ust=1634746947871000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjvpZLx1vMCFQAAAAAdAAAAABAD)
+![detective](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fstock-photo%2Fdetective.html&psig=AOvVaw37sevaqoW8t5wvRYsXTklu&ust=1634746947871000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjvpZLx1vMCFQAAAAAdAAAAABAD)
 
 ## Project Goals:
 **Answer the following questions about Codeup's Online Syllabus Usage:**
