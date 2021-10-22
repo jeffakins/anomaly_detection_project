@@ -1,9 +1,9 @@
 # Anomaly Detection Project
 - By Jeff Akins
-![detective](https://m.economictimes.com/thumb/msid-76642954,width-1200,height-900,resizemode-4,imgsize-330838/although-a-separate-court-case-established-early-holmes-novels-are-in-the-public-domain-the-lawsuit-alleges-the-detective-only-developed-feelings-in-the-last-10-books-.jpg)
+![detective](https://us.123rf.com/450wm/belchonock/belchonock2103/belchonock210326388/166366806-male-detective-with-smoking-pipe-looking-through-magnifying-glass-on-beige-background.jpg?ver=6)
 
 ## Project Goals:
-**Answer the following questions about Codeup's Online Syllabus Usage:**
+**Answer 5 of the following questions about Codeup's Online Syllabus Usage:**
 1. Which lesson appears to attract the most traffic consistently across cohorts (per program)?
 2. Is there a cohort that referred to a lesson significantly more than other cohorts seemed to gloss over?
 3. Are there students who, when active, hardly access the curriculum? If so, what information do you have about these students?
