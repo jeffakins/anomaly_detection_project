@@ -100,4 +100,9 @@ def prep_logs():
     for col in column_list:
         log[col] = log[col].fillna('none')
 
+        # Turn the weekday column into an ordered categorical:
+    log.weekday = pd.Categorical(log.weekday, categories=
+    ['Sunday', 'Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'],
+    ordered=True)
+
     return log
